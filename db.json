@@ -2,30 +2,30 @@
   "users": [
     {
       "id": 0,
-      "_nickname": "Post 1",
-      "_userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "_feedID": 0,
+      "nickname": "Post 1",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "feedID": 0,
       "friends": []
     },
     {
       "id": 1,
-      "_nickname": "Postqwe1",
-      "_userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "_feedID": 2,
+      "nickname": "Postqwe1",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "feedID": 2,
       "friends": []
     },
     {
       "id": 2,
-      "_nickname": "Pos123tqwe1",
-      "_userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "_feedID": 3,
+      "nickname": "Pos123tqwe1",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "feedID": 3,
       "friends": []
     },
     {
       "id": 3,
-      "_nickname": "Posadstqwe1",
-      "_userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "_feedID": 4,
+      "nickname": "Posadstqwe1",
+      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "feedID": 4,
       "friends": []
     }
   ],
