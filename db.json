@@ -30,8 +30,6 @@
     }
   ],
   "feed": [
-      final int id;
-  final userId;
     {
       "id": 1,
       "userId": 1
