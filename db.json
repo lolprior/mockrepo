@@ -1,16 +1,32 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "_id": 1,
+      "_nickname": "Post 1",
+      "_userAvatar": "assets/images/first (4).png",
+      "_feedID": 1,
+      "friends": []
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "_id": 2,
+      "_nickname": "Postqwe1",
+      "_userAvatar": "assets/images/first (3).png",
+      "_feedID": 2,
+      "friends": []
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "_id": 3,
+      "_nickname": "Pos123tqwe1",
+      "_userAvatar": "assets/images/first (2).png",
+      "_feedID": 3,
+      "friends": []
+    },
+    {
+      "_id": 4,
+      "_nickname": "Posadstqwe1",
+      "_userAvatar": "assets/images/first (1).png",
+      "_feedID": 4,
+      "friends": []
     }
   ],
   "comments": [
