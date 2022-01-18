@@ -4,29 +4,25 @@
       "id": 0,
       "nickname": "Post 1",
       "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "feedID": 0,
-      "friends": []
+      "feedID": 0
     },
     {
       "id": 1,
       "nickname": "Postqwe1",
       "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "feedID": 2,
-      "friends": []
+      "feedID": 2
     },
     {
       "id": 2,
       "nickname": "Pos123tqwe1",
       "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "feedID": 3,
-      "friends": []
+      "feedID": 3
     },
     {
       "id": 3,
       "nickname": "Posadstqwe1",
       "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "feedID": 4,
-      "friends": []
+      "feedID": 4
     }
   ],
   "feed": [
