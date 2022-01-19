@@ -2,23 +2,23 @@
   "users": [
     {
       "id": 0,
-      "nickname": "Post 1",
+      "nickname": "Gnar",
       "userAvatar": "assets/images/first (1).png"
     },
     {
       "id": 1,
-      "nickname": "Postqwe1",
-      "userAvatar": "assets/images/first (1).png"
+      "nickname": "Tor",
+      "userAvatar": "assets/images/first (2).png"
     },
     {
       "id": 2,
-      "nickname": "Pos123tqwe1",
-      "userAvatar": "assets/images/first (1).png"
+      "nickname": "Dog",
+      "userAvatar": "assets/images/first (3).png"
     },
     {
       "id": 3,
-      "nickname": "Posadstqwe1",
-      "userAvatar": "assets/images/first (1).png"
+      "nickname": "Cat",
+      "userAvatar": "assets/images/first (4).png"
     }
   ],
   "feed": [
