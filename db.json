@@ -3,22 +3,22 @@
     {
       "id": 0,
       "nickname": "Post 1",
-      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+      "userAvatar": "assets/images/first (1).png"
     },
     {
       "id": 1,
       "nickname": "Postqwe1",
-      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+      "userAvatar": "assets/images/first (1).png"
     },
     {
       "id": 2,
       "nickname": "Pos123tqwe1",
-      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+      "userAvatar": "assets/images/first (1).png"
     },
     {
       "id": 3,
       "nickname": "Posadstqwe1",
-      "userAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+      "userAvatar": "assets/images/first (1).png"
     }
   ],
   "feed": [
